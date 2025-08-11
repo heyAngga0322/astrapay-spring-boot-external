@@ -1,0 +1,15 @@
+Untuk menjalankan backend : 
+ 1. mvn clean package
+ 2. mvn spring-boot:run
+
+FrontEnd Berada pada folder notes
+
+Untuk menjalankan Frontend:
+1. npm install
+2. npm start
+
+Postman test bisa dilihat di bawah ini:
+https://web.postman.co/workspace/My-Workspace~b2611d17-4d5f-4716-824c-34695dae856e/request/2964042-52289fe5-0d1b-4e4f-983c-5d24f7b25f1b?action=share&source=copy-link&creator=2964042
+
+Docker belum bisa dipakai :(
+
